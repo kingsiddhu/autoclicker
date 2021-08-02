@@ -7,8 +7,8 @@ from pynput.keyboard import Listener, KeyCode
   
 delay = 0.001
 button = Button.left  
-start_stop_key = KeyCode(char='a')
-stop_key = KeyCode(char='b')
+start_stop_key = KeyCode(char='u')
+stop_key = KeyCode(char='k')
   
 class ClickMouse(threading.Thread):
     
@@ -60,8 +60,8 @@ def on_press(key):
         listener.stop()
 print("Thanks for downloading my auto clicker")
 print("clicking left click")
-print("'a' to start")
-print("'b' to stop")
+print("press 'u' to start and stop")
+print("press k' to quit")
   
 with Listener(on_press=on_press) as listener:
     listener.join()

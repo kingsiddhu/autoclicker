@@ -1,5 +1,5 @@
 Hello Thanks for downloading my code
-Any damage done to your computer is not my resposibility
+Any damage done to your computer is not my resposibility (The only type of damage can be caused by carelessness)
  By Siddharth Katabathula
 
 

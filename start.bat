@@ -1,1 +1,1 @@
-start autoclicker.py
+python.exe autoclicker.py
